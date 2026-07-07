@@ -41,7 +41,7 @@ La aplicación utiliza el patrón Modelo-Vista-Controlador (MVC):
 
 ## Estructura del proyecto
 
-```text
+text
 src/main/java
  ├── controlador
  ├── dao
