@@ -53,6 +53,8 @@ src/main/webapp
  ├── JSP
  └── WEB-INF
 ```
+
+## Control de versiones
 ## Control de versiones
 
 El proyecto fue administrado mediante Git y GitHub utilizando las siguientes ramas:
