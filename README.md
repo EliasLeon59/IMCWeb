@@ -41,7 +41,7 @@ La aplicación utiliza el patrón Modelo-Vista-Controlador (MVC):
 
 ## Estructura del proyecto
 
-text
+```text
 src/main/java
  ├── controlador
  ├── dao
@@ -52,7 +52,7 @@ src/main/java
 src/main/webapp
  ├── JSP
  └── WEB-INF
-
+```
 ## Control de versiones
 
 El proyecto fue administrado mediante Git y GitHub utilizando las siguientes ramas:
